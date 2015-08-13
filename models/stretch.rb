@@ -1,9 +1,9 @@
 def stretch(area)
   if area == "legs"
-    return "leg stretch (: <img src='http://www.independent.co.uk/incoming/article8465213.ece/alternates/w620/v2-cute-cat-picture.jpg'>"
-  elsif area == ["arms1", "arms2", "arms3"]
-    return "arm stretch (:"
+    return ["legs1", "legs2", "legs3"]
+  elsif area == "arms"
+    return ["arms1", "arms2", "arms3"]
   elsif area == "back"
-    return "back stretch (:"
+    return ["back1", "back2", "back3"]
   end
 end

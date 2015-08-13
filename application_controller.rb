@@ -12,6 +12,7 @@ class ApplicationController < Sinatra::Base
 
   post '/stretch' do
     @message = stretch(params[:area])
+    puts @message
     erb :stretch
   end
 end
