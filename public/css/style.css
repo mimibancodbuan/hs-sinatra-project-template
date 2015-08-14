@@ -48,3 +48,5 @@ a {
         z-index:1002;
         overflow: auto;
     }
+
+/* Start http://www.cursors-4u.com */ body, a:hover {cursor: url(http://cur.cursors-4u.net/food/foo-5/foo429.cur), progress !important;} /* End http://www.cursors-4u.com */
