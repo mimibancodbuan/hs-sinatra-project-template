@@ -1,4 +1,11 @@
-
+  .fancy {
+    font: 20pt Cantora One;
+    border-radius: 5px;
+    padding: 5px;
+    background-color: #CC6600;
+  border: 2px orange outset;
+    color: #FFFFFF;
+  }
 h1{
   color: #CC6600;
   font-family: 'Cantora One';
